@@ -1,0 +1,1 @@
+Alternate IDE for Magic eDeveloper Projects
